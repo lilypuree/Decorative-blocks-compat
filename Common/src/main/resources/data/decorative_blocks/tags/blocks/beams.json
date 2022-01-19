@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "decorative_compat:cherry_beam",
+    "decorative_compat:dead_beam",
+    "decorative_compat:fir_beam",
+    "decorative_compat:hellbark_beam",
+    "decorative_compat:jacaranda_beam",
+    "decorative_compat:magic_beam",
+    "decorative_compat:mahogany_beam",
+    "decorative_compat:palm_beam",
+    "decorative_compat:redwood_beam",
+    "decorative_compat:umbran_beam",
+    "decorative_compat:willow_beam"
+  ]
+}

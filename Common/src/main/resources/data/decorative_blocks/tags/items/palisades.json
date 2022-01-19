@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "decorative_compat:cherry_palisade",
+    "decorative_compat:dead_palisade",
+    "decorative_compat:fir_palisade",
+    "decorative_compat:hellbark_palisade",
+    "decorative_compat:jacaranda_palisade",
+    "decorative_compat:magic_palisade",
+    "decorative_compat:mahogany_palisade",
+    "decorative_compat:palm_palisade",
+    "decorative_compat:redwood_palisade",
+    "decorative_compat:umbran_palisade",
+    "decorative_compat:willow_palisade"
+  ]
+}

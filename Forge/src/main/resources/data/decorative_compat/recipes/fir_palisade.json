@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:fir_log"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:fir_palisade",
+    "count": 6
+  }
+}

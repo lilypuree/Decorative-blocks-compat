@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "decorative_compat:block/willow_beam_x"
+    },
+    "axis=y": {
+      "model": "decorative_compat:block/willow_beam_y"
+    },
+    "axis=z": {
+      "model": "decorative_compat:block/willow_beam_z"
+    }
+  }
+}

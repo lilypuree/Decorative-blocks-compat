@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:stripped_redwood_log"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:redwood_beam",
+    "count": 2
+  }
+}

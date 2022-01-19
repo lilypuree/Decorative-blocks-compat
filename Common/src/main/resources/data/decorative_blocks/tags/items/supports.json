@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "decorative_compat:cherry_support",
+    "decorative_compat:dead_support",
+    "decorative_compat:fir_support",
+    "decorative_compat:hellbark_support",
+    "decorative_compat:jacaranda_support",
+    "decorative_compat:magic_support",
+    "decorative_compat:mahogany_support",
+    "decorative_compat:palm_support",
+    "decorative_compat:redwood_support",
+    "decorative_compat:umbran_support",
+    "decorative_compat:willow_support"
+  ]
+}

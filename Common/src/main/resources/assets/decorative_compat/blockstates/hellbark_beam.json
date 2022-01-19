@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "decorative_compat:block/hellbark_beam_x"
+    },
+    "axis=y": {
+      "model": "decorative_compat:block/hellbark_beam_y"
+    },
+    "axis=z": {
+      "model": "decorative_compat:block/hellbark_beam_z"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:mahogany_log"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:mahogany_palisade",
+    "count": 6
+  }
+}

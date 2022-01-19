@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/beam_z",
+  "textures": {
+    "particle": "decorative_compat:block/jacaranda_beam_side",
+    "side": "decorative_compat:block/jacaranda_beam_side",
+    "end": "decorative_compat:block/jacaranda_beam_end"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "decorative_compat:block/palm_beam_x"
+    },
+    "axis=y": {
+      "model": "decorative_compat:block/palm_beam_y"
+    },
+    "axis=z": {
+      "model": "decorative_compat:block/palm_beam_z"
+    }
+  }
+}

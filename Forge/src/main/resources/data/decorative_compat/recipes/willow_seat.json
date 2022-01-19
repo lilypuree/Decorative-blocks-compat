@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:willow_slab"
+    },
+    "y": {
+      "item": "biomesoplenty:willow_fence"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:willow_seat",
+    "count": 2
+  }
+}

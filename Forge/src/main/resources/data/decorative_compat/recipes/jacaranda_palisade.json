@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:jacaranda_log"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:jacaranda_palisade",
+    "count": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "biomesoplenty:cherry_slab"
+    },
+    "y": {
+      "item": "biomesoplenty:cherry_fence"
+    }
+  },
+  "result": {
+    "item": "decorative_compat:cherry_seat",
+    "count": 2
+  }
+}

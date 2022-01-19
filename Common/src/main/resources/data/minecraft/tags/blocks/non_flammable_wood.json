@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "decorative_compat:hellbark_beam",
+    "decorative_compat:hellbark_palisade",
+    "decorative_compat:hellbark_seat",
+    "decorative_compat:hellbark_support"
+  ]
+}

@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[38,)"
+license="MIT"
+
+[[mods]] #mandatory
+modId="decorative_compat" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Decorative Compat" #mandatory
+# A URL to query for updates for this mod. See the JSON update specification <here>
+#updateJSONURL="http://myurl.me/" #optional
+# A URL for the "homepage" for this mod, displayed in the mod UI
+#displayURL="http://example.com/" #optional
+logoFile="logo.png"
+credits="Stohun, Author of Decorative Blocks" #optional
+authors="lilypuree" #optional
+description='''
+Compat for Biomes O'Plenty
+'''
+
+[[dependencies.decorative_compat]] #optional
+modId="forge" #mandatory
+mandatory=true #mandatory
+versionRange="[38,)" #mandatory
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.decorative_compat]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.decorative_compat]]
+modId="decorative_blocks"
+mandatory=true
+versionRange="[2.0.0,)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "lilypuree.decorative_compat.mixin",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "decorative_compat.refmap.json"
+}

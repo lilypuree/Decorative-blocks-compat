@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "decorative_compat:cherry_seat",
+    "decorative_compat:dead_seat",
+    "decorative_compat:fir_seat",
+    "decorative_compat:hellbark_seat",
+    "decorative_compat:jacaranda_seat",
+    "decorative_compat:magic_seat",
+    "decorative_compat:mahogany_seat",
+    "decorative_compat:palm_seat",
+    "decorative_compat:redwood_seat",
+    "decorative_compat:umbran_seat",
+    "decorative_compat:willow_seat"
+  ]
+}
