@@ -6,7 +6,7 @@ import lilypuree.decorative_blocks.blocks.SeatBlock;
 import lilypuree.decorative_blocks.blocks.SupportBlock;
 import lilypuree.decorative_blocks.blocks.types.IWoodType;
 import lilypuree.decorative_blocks.blocks.types.WoodDecorativeBlockTypes;
-import lilypuree.decorative_blocks.core.factory.BlockSuppliers;
+import lilypuree.decorative_blocks.core.DBBlocks;
 import lilypuree.decorative_compat.BOPWoodTypes;
 
 import java.util.HashMap;
@@ -23,10 +23,10 @@ public class DCBlocks {
 
     public static void init() {
         for (IWoodType woodType : BOPWoodTypes.values()) {
-            BEAMS.put(woodType, (BeamBlock) BlockSuppliers.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.BEAM));
-            PALISADES.put(woodType, (PalisadeBlock) BlockSuppliers.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.PALISADE));
-            SUPPORTS.put(woodType, (SupportBlock) BlockSuppliers.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.SUPPORT));
-            SEATS.put(woodType, (SeatBlock) BlockSuppliers.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.SEAT));
+            BEAMS.put(woodType, (BeamBlock) DBBlocks.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.BEAM));
+            PALISADES.put(woodType, (PalisadeBlock) DBBlocks.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.PALISADE));
+            SUPPORTS.put(woodType, (SupportBlock) DBBlocks.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.SUPPORT));
+            SEATS.put(woodType, (SeatBlock) DBBlocks.createDecorativeBlock(woodType, WoodDecorativeBlockTypes.SEAT));
         }
     }
 

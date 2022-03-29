@@ -3,8 +3,6 @@
   "package": "lilypuree.decorative_compat.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "FireBlockInvoker",
-    "AbstractFurnaceTileEntityMixin"
   ],
   "client": [
   ],

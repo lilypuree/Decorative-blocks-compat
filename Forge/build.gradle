@@ -118,9 +118,9 @@ dependencies {
     runtimeOnly fg.deobf("mezz.jei:jei-${minecraft_version}:${jei_version}")
 
 
-    implementation  fg.deobf("curse.maven:decorative_blocks-362528:3613621")
-    implementation  fg.deobf("curse.maven:biomesoplenty-220318:3605502")
-    implementation  fg.deobf("curse.maven:terrablender-563928:3611791")
+    implementation  fg.deobf("curse.maven:decorative_blocks-362528:${db_forge_fileid}")
+    implementation  fg.deobf("curse.maven:biomesoplenty-220318:${bop_fileid}")
+    implementation  fg.deobf("curse.maven:terrablender-563928:${terrablender_fileid}")
 
 }
 

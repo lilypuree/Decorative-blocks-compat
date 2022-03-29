@@ -11,16 +11,13 @@
     "contact": {
       "sources": "https://github.com/lilypuree/Decorative-Winter"
     },
-  
+    "icon" : "logo.png",
     "license": "MIT",
   
     "environment": "*",
     "entrypoints": {
       "main": [
-        "lilypuree.decorative_winter.DecorativeWinter"
-      ],
-      "client": [
-        "lilypuree.decorative_winter.DWClientSetup"
+        "lilypuree.decorative_compat.DecorativeCompatFabric"
       ]
     },
     "mixins": [
@@ -28,11 +25,11 @@
     ],
   
     "depends": {
-      "fabricloader": ">=0.12",
+      "fabricloader": ">=0.13",
       "fabric": "*",
       "minecraft": "1.18.x",
       "java": ">=17",
-      "decorative_blocks": ">=2.0.0"
+      "decorative_blocks": ">=2.1.0"
     },
 
     "suggests": {
